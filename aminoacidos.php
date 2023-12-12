@@ -27,15 +27,15 @@
                   Productos
                 </a>
                 <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="proteina.html">Proteinas</a></li>
-                  <li><a class="dropdown-item" href="aminoacidos.html">Aminoacidos</a></li>
-                  <li><a class="dropdown-item" href="multimitavinicos.html">Multivitaminicos</a></li>
+                  <li><a class="dropdown-item" href="proteina.php">Proteinas</a></li>
+                  <li><a class="dropdown-item" href="aminoacidos.php">Aminoacidos</a></li>
+                  <li><a class="dropdown-item" href="multimitavinicos.php">Multivitaminicos</a></li>
                   <li><hr class="dropdown-divider"></li>
-                  <li><a class="dropdown-item" href="accesorios.html">Accesorios</a></li>
+                  <li><a class="dropdown-item" href="accesorios.php">Accesorios</a></li>
                 </ul>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="nosotros.html">Nosotros</a>
+                <a class="nav-link" href="nosotros.php">Nosotros</a>
                 </li>
             </ul>
             <form class="d-flex" role="search">

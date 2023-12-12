@@ -12,7 +12,7 @@
     <header>
         <nav class="navbar navbar-expand-lg bg-dark border-bottom border-body" data-bs-theme="dark" style="border: 1px solid black;">
             <div class="container-fluid">
-              <a class="navbar-brand" href="index.html">GymShark</a>
+              <a class="navbar-brand" href="index.php">GymShark</a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
               </button>
@@ -26,11 +26,11 @@
                       Productos
                     </a>
                     <ul class="dropdown-menu">
-                      <li><a class="dropdown-item" href="proteina.html">Proteinas</a></li>
-                      <li><a class="dropdown-item" href="aminoacidos.html">Aminoacidos</a></li>
-                      <li><a class="dropdown-item" href="multimitavinicos.html">Multivitaminicos</a></li>
+                      <li><a class="dropdown-item" href="proteina.php">Proteinas</a></li>
+                      <li><a class="dropdown-item" href="aminoacidos.php">Aminoacidos</a></li>
+                      <li><a class="dropdown-item" href="multimitavinicos.php">Multivitaminicos</a></li>
                       <li><hr class="dropdown-divider"></li>
-                      <li><a class="dropdown-item" href="accesorios.html">Accesorios</a></li>
+                      <li><a class="dropdown-item" href="accesorios.php">Accesorios</a></li>
                     </ul>
                 </li>
                 </ul>
