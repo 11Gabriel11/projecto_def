@@ -64,7 +64,7 @@
           <div class="card" style="width: 18rem;">
             <img src="imagenes/kw.jpeg" class="card-img-top" alt="...">
             <div class="card-body">
-              <h5 class="card-title">Lukita777</h5>
+              <h5 class="card-title">Lucas</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
             </div>
             <ul class="list-group list-group-flush">
